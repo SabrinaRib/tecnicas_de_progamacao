@@ -558,6 +558,7 @@ FIM SUBALGORITMO
 
 ---
 
-**Desenvolvido por: Wamberg Gomes**  
-**Projeto: Sistema de Gerenciamento de Concessionária Berg Lindo**  
+**Desenvolvido por: Sabrina Ribeiro**  
+**Projeto: Sistema de Gerenciamento de Concessionária Auto Drive**  
 **Data: 2025**
+
