@@ -44,7 +44,7 @@ Antes de instalar o sistema, certifique-se de ter os seguintes softwares instala
      define('HOST', 'localhost');
      define('USER', 'root');
      define('PASS', '');
-     define('BASE', 'concessionariaberg');
+     define('BASE', 'concessionaria');
      define('PORT', 3307);
      ```
    - **Importante**: Ajuste a porta do MySQL caso seja diferente (padrão é 3306)
@@ -87,4 +87,5 @@ Antes de instalar o sistema, certifique-se de ter os seguintes softwares instala
 - O banco de dados deve estar criado antes de acessar o sistema
 - Em caso de erro de conexão, verifique as configurações no arquivo `config.php`
 - Para desenvolvimento, mantenha os serviços Apache e MySQL ativos durante o uso do sistema
+
 
