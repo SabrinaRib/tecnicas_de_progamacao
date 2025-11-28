@@ -468,7 +468,8 @@ INÍCIO
             INCLUIR 'salvar-cliente.php'
         // ... outros casos para Marca, Modelo, Venda ...
         CASO PADRÃO:
-            ESCREVA "Seja bem vindo ao sistema da berg lindo"
+            ESCREVA "Seja Bem Vindo a Concessionaria Auto Drive"
+                    "Encontre o carro perfeito para a sua proxima estrada🚗"
     FIM ESCOLHA
 FIM
 ```
@@ -558,6 +559,7 @@ FIM SUBALGORITMO
 
 ---
 
-**Desenvolvido por: Wamberg Gomes**  
-**Projeto: Sistema de Gerenciamento de Concessionária Berg Lindo**  
+**Desenvolvido por: Sabrina Ribeiro**  
+**Projeto: Sistema de Gerenciamento de Concessionária Auto Drive**  
 **Data: 2025**
+
