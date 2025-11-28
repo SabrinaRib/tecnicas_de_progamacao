@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Concessionária - Berg Lindo
+# Sistema de Gerenciamento de Concessionária - Sabrina Ribeiro
 
 ## Breve Descrição do Trabalho
 
@@ -87,3 +87,4 @@ Antes de instalar o sistema, certifique-se de ter os seguintes softwares instala
 - O banco de dados deve estar criado antes de acessar o sistema
 - Em caso de erro de conexão, verifique as configurações no arquivo `config.php`
 - Para desenvolvimento, mantenha os serviços Apache e MySQL ativos durante o uso do sistema
+
